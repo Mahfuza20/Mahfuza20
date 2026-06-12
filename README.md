@@ -24,21 +24,46 @@ Java, Python, C++, C, HTML, CSS, ML
 
 ## 🌐 Let's connect with...
 
-[LinkedIn](https://www.linkedin.com/in/mahfuza-khatun-582301247/)
+<p align="left">
+<a href="https://linkedin.com/in/mahfuza-khatun-582301247/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/Mahfuza20" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
+</a>
+</p>
 
-[GitHub](https://github.com/Mahfuza20)
+---
 
-<hr>
+## 📊 GitHub Stats
 
-## 📊 GitHub Statistics
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfuza20\&show_icons=true\&theme=tokyonight)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuza20\&layout=compact\&theme=tokyonight)
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahfuza20\&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahfuza20&theme=tokyonight" />
+</p>
 
-<hr>
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfuza20&theme=tokyo-night" />
+</p>
+
+---
+## 🏆 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langsusername=Mahfuza20&layout=compact&theme=tokyonight" />
+</p>
+
 
 ## 📌 Featured Projects
 
