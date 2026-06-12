@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-👩‍🎓 Computer Science Student
+👩‍💻 I'm a front-end developer
 
-🌱 Currently Learning Java, Python and Machine Learning
+🌱 Currently Learning Python and Machine Learning
 
 💡 Interested In:
 
@@ -14,13 +14,11 @@
 * Data Science
 * Software Development
 
-📍 Rajshahi, Bangladesh
-
 <hr>
 
 ## 🛠 Skills
 
-Java, Python, C++, C, HTML, CSS, JavaScript
+Java, Python, C++, C, HTML, CSS, ML
 
 <hr>
 
@@ -42,6 +40,17 @@ Java, Python, C++, C, HTML, CSS, JavaScript
 
 <hr>
 
-### 🎯 Current Goal
+## 📌 Featured Projects
 
-Learning Programming and Building Amazing Projects.
+### 🤖 Thesis Project
+Short description of your thesis.
+
+### 🌐 Portfolio Website
+Personal portfolio showcasing projects and skills.
+
+### 📊 AI Research Projects
+Machine Learning and Data Science related works.
+
+---
+
+⭐ Thanks for visiting my profile!
