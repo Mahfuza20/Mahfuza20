@@ -37,15 +37,15 @@ Java, Python, C++, C, HTML, CSS, ML
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfuza20 &theme=tokyo-night &show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfuza20 &show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuza20&layout=compact &theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuza20&layout=compact)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfuza20 &theme=tokyo-night)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfuza20)
 
 ---
 
