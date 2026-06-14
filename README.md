@@ -33,28 +33,21 @@ HTML, CSS, Java, C, C++, Python, ML <br>
 
 ## 🔥 Stats Dashboard
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfuza20&theme=tokyonight"/>
-    </td>
-  </tr>
+## 🔥 Stats Dashboard
 
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahfuza20&theme=tokyonight"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahfuza20&theme=tokyonight"/>
-    </td>
-  </tr>
+<!-- 1st full width -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfuza20&theme=tokyonight" width="100%"/>
+</p>
 
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahfuza20&theme=tokyonight"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6"/>
-    </td>
-  </tr>
-</table>
+<!-- 2 cards row -->
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahfuza20&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahfuza20&theme=tokyonight" width="49%"/>
+</div>
+
+<!-- 2 cards row -->
+<div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap; margin-top:10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahfuza20&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6" width="49%"/>
+</div>
