@@ -31,4 +31,30 @@ HTML, CSS, Java, C, C++, Python, ML <br>
 
 ![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6)
 
+## 🔥 Stats Dashboard
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfuza20&theme=tokyonight"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahfuza20&theme=tokyonight"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahfuza20&theme=tokyonight"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahfuza20&theme=tokyonight"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6"/>
+    </td>
+  </tr>
+</table>
