@@ -21,20 +21,6 @@ HTML, CSS, Java, C, C++, Python, ML <br>
 
 ---
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfuza20&theme=tokyonight)
-
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mahfuza20&theme=tokyonight)
-
-![Most commit language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahfuza20&theme=tokyonight)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mahfuza20&theme=tokyonight)
-
-![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6)
-
-## 🔥 Stats Dashboard
-
-## 🔥 Stats Dashboard
-
 <!-- 1st full width -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mahfuza20&theme=tokyonight" width="100%"/>
