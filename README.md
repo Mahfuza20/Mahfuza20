@@ -1,79 +1,18 @@
-<h1 align="center">Hi there 👋, I'm Mahfuza Khatun</h1>
+## Hi there 👋, I'm Mahfuza Khatun
 
-<hr>
+### 🚀 About Me 
+👩‍💻 I'm a front-end developer <br>
+🧠 I'm currently Learning Python and Machine Learning
 
-## 🚀 About Me
-
-👩‍💻 I'm a front-end developer
-
-🌱 Currently Learning Python and Machine Learning
-
-💡 Interested In:
-
+###💡 Interested In:
 * Machine Learning
 * Data Science
 * Software Development
 
-<hr>
 
-## 🛠 Skills
+### 🛠 Skills 
+HTML, CSS, Java, C, C++, Python, ML <br>
 
-Java, Python, C++, C, HTML, CSS, ML
-
-<hr>
-
-## 🌐 Let's connect with...
-
-<p align="left">
-<a href="https://linkedin.com/in/mahfuza-khatun-582301247/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-</a>
-<a href="https://github.com/Mahfuza20" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mahfuza20&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahfuza20&layout=compact)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahfuza20)
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahfuza20&theme=tokyo-night" />
-</p>
-
----
-## 🏆 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langsusername=Mahfuza20&layout=compact&theme=tokyonight" />
-</p>
-
-
-## 📌 Featured Projects
-
-### 🤖 Thesis Project
-Short description of your thesis.
-
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects and skills.
-
-### 📊 AI Research Projects
-Machine Learning and Data Science related works.
-
----
-
-⭐ Thanks for visiting my profile!
+### 🌐 Let's connect with... 
+[<img src='https://cdn-icons-png.flaticon.com/512/145/145807.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/mahfuza-khatun-582301247/)
+[<img src='https://cdn-icons-png.flaticon.com/512/733/733553.png' alt='github' height='40'>](https://github.com/Mahfuza20)
